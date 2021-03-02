@@ -9,7 +9,7 @@ escpecialy for the docker environment
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/XeusClingMatplotLibExample.git/master?filepath=XeusClingMatplotLibExample.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/XeusClingMatplotLibExample.git/master?filepath=cppInterpreter.ipynb)
 
 This is a template for a environment like a interpreter  with c++ / c  in a jupyter notebook.
 
