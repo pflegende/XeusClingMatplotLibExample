@@ -1,4 +1,23 @@
-# Xeus-cling & matplotlib-cpp in a jupyter notebook
+# exploring cpp in jupyter notebook
+
+thx to @olilarkin
+
+escpecialy for the docker environment
+
+:)
+:smiling:
+
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/XeusClingMatplotLibExample.git/master?filepath=XeusClingMatplotLibExample.ipynb)
+
+This is a template for a environment like a interpreter  with c++ / c  in a jupyter notebook.
+
+===
+
+following is the original readme made by @olilarkin and forked by @pflegende *** thu 2 mart 2nd 2021 22:40
+
+Xeus-cling & matplotlib-cpp in a jupyter notebook
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olilarkin/XeusClingMatplotLibExample.git/master?filepath=XeusClingMatplotLibExample.ipynb)
 
