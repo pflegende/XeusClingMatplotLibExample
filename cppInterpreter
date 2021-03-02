@@ -1,5 +1,16 @@
 {
  "cells": [
+    {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "// initialy the notebook is ready for executing c++ code \n",
+    fprint("This was printed from a c++ source in a jupyter notebook \n");
+   ]
+  },
+
   {
    "cell_type": "code",
    "execution_count": null,
