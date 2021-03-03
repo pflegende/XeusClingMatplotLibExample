@@ -20,7 +20,7 @@ This is a template for a environment like a interpreter  with c++ / c  in a jupy
 
 ---
 
-following is the original readme made by @olilarkin and forked by @pflegende *** thu 2 mart 2nd 2021 22:40
+following is the original readme made by @olilarkin and forked by @pflegende *** thu mart 2nd 2021 22:40
 
 Xeus-cling & matplotlib-cpp in a jupyter notebook
 
