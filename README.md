@@ -10,7 +10,7 @@ escpecialy for the docker environment
 try interactiv c++ in your browser:  
 
 new:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/XeusClingMatplotLibExample.git/master?filepath=lab/tree/cppInterpreter.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/XeusClingMatplotLibExample.git/master?urlpath=lab/tree/cppInterpreter.ipynb)
 
 
 old:
