@@ -9,19 +9,11 @@ escpecialy for the docker environment
 
 try interactiv c++ in your browser:  
 
-new:
+jupyter-lab:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/XeusClingMatplotLibExample.git/master?urlpath=lab/tree/cppInterpreter.ipynb)
 
-
-old:
+jupyter-notebook:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/XeusClingMatplotLibExample.git/master?filepath=cppInterpreter.ipynb)
-
-
-
-Test:
-lab/tree/path/
-
-
 
 
 This is a template for a environment like a interpreter  with c++ / c  in a jupyter notebook.
